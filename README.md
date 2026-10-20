@@ -27,7 +27,7 @@ Meu objetivo é me tornar um programador profissional, criando projetos cada vez
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smlsilv.ofc?rpxt=cHVkNTZ2Y3cyYjFy)
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](samuelssantos20@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=samuelssantos20%40hotmail.com)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=smcsantos0%40gmail.com)
 
