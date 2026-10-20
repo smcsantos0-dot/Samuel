@@ -23,12 +23,13 @@ Meu objetivo é me tornar um programador profissional, criando projetos cada vez
 
 ## 📫 Contato
 
-- Whatsapp: 11 96778-7720
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967787720)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smlsilv.ofc?rpxt=cHVkNTZ2Y3cyYjFy)
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](samuelssantos20@hotmail.com)
-- Email:samuelssantos20@hotmail.com
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](smcsantos0@gmail.com)
 
 ---
 
